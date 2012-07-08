@@ -28,6 +28,12 @@
 				android:drawSelectorOnTop="false"
 				android:layout_alignParentTop="true" android:background="#ffffffff" android:padding="0dp">
 		</GridView>
+        <!-- 広告表示用箇所 -->
+        <RelativeLayout android:id="@+id/adView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom" >
+        </RelativeLayout>
 		<!-- 
 		<RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/relativeLayout1" android:layout_gravity="bottom">
 			<com.google.ads.AdView android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/adView"

@@ -141,7 +141,7 @@ public class MainActivity extends AbstractActivity {
 							Thread.sleep(500);
 						} catch (Exception e) {}
 						Log.d(TAG, "service:" + isBound_);
-						if (isBound_) break;
+						if (isBound_ && fetchFeedService_ != null) break;
 					}
 					handler_.post(new Runnable() {
 						@Override
@@ -161,6 +161,8 @@ public class MainActivity extends AbstractActivity {
 		manager.cancelAll();
 		
 		parappa_ = new PaRappa(this);
+		
+		AppUtils.onCreateAditional(this);
 	}
 
 	private NewsCollectTask task_ = null;
