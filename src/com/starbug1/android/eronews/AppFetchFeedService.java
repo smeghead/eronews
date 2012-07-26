@@ -2,12 +2,9 @@ package com.starbug1.android.eronews;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 import com.starbug1.android.newsapp.FetchFeedService;
 import com.starbug1.android.newsapp.data.NewsListItem;
-import com.starbug1.android.newsapp.utils.UrlUtils;
 
 public class AppFetchFeedService extends FetchFeedService {
 
@@ -48,7 +45,6 @@ public class AppFetchFeedService extends FetchFeedService {
 	
 	@Override
 	public void onCreate() {
-		com.starbug1.android.newsapp.utils.ResourceProxy.R.init(R.class);
 
 		super.onCreate();
 	}

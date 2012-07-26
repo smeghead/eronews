@@ -17,8 +17,8 @@
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="eronews.svg"
    inkscape:export-filename="/home/smeghead/eclipse/eronews/res/drawable-hdpi/icon.png"
-   inkscape:export-xdpi="42.189999"
-   inkscape:export-ydpi="42.189999">
+   inkscape:export-xdpi="48.209999"
+   inkscape:export-ydpi="48.209999">
   <defs
      id="defs4">
     <linearGradient
@@ -115,7 +115,7 @@
      inkscape:window-width="1241"
      inkscape:window-height="706"
      inkscape:window-x="75"
-     inkscape:window-y="994"
+     inkscape:window-y="138"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -164,39 +164,16 @@
        style="opacity:0.68275865;fill:url(#radialGradient3854);fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'ガリ版風ゲバ文字＠エコノミスト';-inkscape-font-specification:'ガリ版風ゲバ文字＠エコノミスト Bold'"
-       x="30.203125"
-       y="970.36218"
-       id="text3757-0-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3832"
-         x="30.203125"
-         y="970.36218"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'ガリ版風ゲバ文字＠エコノミスト';-inkscape-font-specification:'ガリ版風ゲバ文字＠エコノミスト Bold'">エ ロ</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
-       x="8.2460938"
-       y="1026.3622"
-       id="text3757-0-9-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3836"
-         x="8.2460938"
-         y="1026.3622"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'ガリ版風ゲバ文字＠エコノミスト';-inkscape-font-specification:'ガリ版風ゲバ文字＠エコノミスト Bold'">ニュース</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'ガリ版風ゲバ文字＠エコノミスト';-inkscape-font-specification:'ガリ版風ゲバ文字＠エコノミスト Bold'"
-       x="49.993164"
-       y="999.04675"
+       style="font-size:179.09030151px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'ガリ版風ゲバ文字＠エコノミスト';-inkscape-font-specification:'ガリ版風ゲバ文字＠エコノミスト Bold'"
+       x="16.723255"
+       y="983.88702"
        id="text3757-0-9-3"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.95675149,1.0452035)"><tspan
          sodipodi:role="line"
          id="tspan3832-4"
-         x="49.993164"
-         y="999.04675"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'ガリ版風ゲバ文字＠エコノミスト';-inkscape-font-specification:'ガリ版風ゲバ文字＠エコノミスト Bold'">★</tspan></text>
+         x="16.723255"
+         y="983.88702"
+         style="font-size:100.29056549px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'ガリ版風ゲバ文字＠エコノミスト';-inkscape-font-specification:'ガリ版風ゲバ文字＠エコノミスト Bold'">★</tspan></text>
   </g>
 </svg>
